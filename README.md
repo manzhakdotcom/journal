@@ -1,5 +1,5 @@
-# Journal App
-## Simple app for protocol different issues of railway
+# Shop App
 
-# Install
-## npm install
+## Run local
+
+`npm run dev`
